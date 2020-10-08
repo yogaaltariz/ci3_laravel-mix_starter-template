@@ -1,1 +1,1 @@
-console.log('tes')
+import 'alpinejs'
