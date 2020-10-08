@@ -13,7 +13,12 @@ cd ci3_laravel-mix_starter-template
 ```bash
 npm install
 ```
-3. Run for development
+3. Bundling js and sass resources to development (without minified)
 ```bash
 npm run dev
 ```
+or you can try bundling js and sass resource to production (minified)
+```bash
+npm run production
+```
+4. open localhost/ci3_laravel-mix_starter-template on the browser
